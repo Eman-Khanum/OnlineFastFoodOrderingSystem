@@ -58,7 +58,7 @@ Provides a dedicated module for recording payment methods (Cash/Card) and genera
 ###  Compilation & Execution
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
+    git clone (https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
     ```
 2.  **Add Connector:** Ensure `mysql-connector-java.jar` is added to your project's build path/libraries.
 3.  **Compile:**
@@ -75,7 +75,7 @@ Provides a dedicated module for recording payment methods (Cash/Card) and genera
 
 ## ➜ Project Links
 
-* **GitHub Repository:** [Insert your GitHub URL here]
+* **GitHub Repository:** https://github.com/Eman-Khanum/OnlineFastFoodOrderingSystem
 * **Demo Video:** [Insert your YouTube or Drive Video Link here]
 
 ---
