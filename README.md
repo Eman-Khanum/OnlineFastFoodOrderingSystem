@@ -76,7 +76,7 @@ Provides a dedicated module for recording payment methods (Cash/Card) and genera
 ## ➜ Project Links
 
 * **GitHub Repository:** https://github.com/Eman-Khanum/OnlineFastFoodOrderingSystem
-* **Demo Video:** [Insert your YouTube or Drive Video Link here]
+* **Demo Video:** https://drive.google.com/file/d/1cwjz8GuuQRkAw-2jEyXCulQQfVpPwTq3/view?usp=sharing
 
 ---
 
